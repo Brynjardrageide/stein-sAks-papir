@@ -1,0 +1,23 @@
+
+body {
+background-color: #fee;
+color: #202020;
+font-family: Verdana, sans-serif;
+text-align: center;
+}
+
+.wrapper {
+text-align: center;
+}
+.current{
+text-decoration: underline 2px solid;
+}
+
+a {
+color: black;
+}
+
+div {
+padding: 5px;
+
+}
